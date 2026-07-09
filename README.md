@@ -10,7 +10,7 @@ Wanted GPU support on a Dell Poweredge R920, needed UEFI for proper MMIO support
 - on unraid USB root directory, rename the "EFI" folder to "EFI-old" for backup purposes
 - download EFI folder to root directory.
 
-## Acknowledegmenets:
+## Acknowledgments:
 - GRUB source [https://gitlab.freedesktop.org/gnu-grub/grub/](https://gitlab.freedesktop.org/gnu-grub/grub/)
 - Jank GPU [fitting](https://www.reddit.com/r/homelab/comments/198jn6q/to_those_asking_how_i_powered_the_tesla_p40_and/) (with modified EPS 8-pin off PSU board)
 
